@@ -1,6 +1,6 @@
 # docker-composition
 
-Overall goal of this program is to allow composition of docker images.
+Overall goal of this program is to allow composition or merging of docker images.
 
 ## Problem
 
